@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name daq_thermal-rescue)(type Legacy)(uri ${KIPRJMOD}/daq_thermal-rescue.lib)(options "")(descr ""))
+)
