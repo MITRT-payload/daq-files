@@ -19,7 +19,7 @@ int8_t miso = 45;
 double temperature;
 String dataString;
 
-// Initialize MAX Amplifier Object
+// Initialize MAX Amplifier Object for Testing
 Adafruit_MAX31855 thermo =  Adafruit_MAX31855(TC1);
 
 void setup(){
